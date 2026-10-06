@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 393" role="img" aria-label="garve profile terminal card">
+<style>
+@keyframes lineIn {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+.line {
+  opacity: 0;
+  animation: lineIn 420ms ease forwards;
+}
+</style>
+<rect x="0" y="0" width="100%" height="100%" fill="#0d1117"/>
+<rect x="10" y="10" width="470" height="373" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="10" y="10" width="470" height="36" rx="12" fill="#21262d"/>
+<rect x="10" y="34" width="470" height="2" fill="#161b22"/>
+<circle cx="28" cy="28" r="5" fill="#ff5f56"/>
+<circle cx="46" cy="28" r="5" fill="#ffbd2e"/>
+<circle cx="64" cy="28" r="5" fill="#27c93f"/>
+<text x="245" y="31" text-anchor="middle" fill="#8b949e" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">garve@github</text>
+<text x="26" y="64" fill="#58a6ff" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">$ neofetch --profile garve</text>
+<g class="line" style="animation-delay:0.00s">
+<text x="26" y="88" fill="#7ee787" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Now:</text>
+<text x="116" y="88" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">B.Tech CSE student | learning web dev | doing</text>
+</g>
+<g class="line" style="animation-delay:0.08s">
+<text x="116" y="106" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">DSA alongside frontend | open to internships</text>
+</g>
+<g class="line" style="animation-delay:0.16s">
+<text x="26" y="124" fill="#7ee787" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Edu:</text>
+<text x="116" y="124" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">3rd year B.Tech CSE at OIST Bhopal; doing Web</text>
+</g>
+<g class="line" style="animation-delay:0.24s">
+<text x="116" y="142" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Development and Java DSA courses at Coding</text>
+</g>
+<g class="line" style="animation-delay:0.32s">
+<text x="116" y="160" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Thinker, Bhopal; core subjects covered: OS, SE,</text>
+</g>
+<g class="line" style="animation-delay:0.40s">
+<text x="116" y="178" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">DBMS, TOC, IWT</text>
+</g>
+<g class="line" style="animation-delay:0.48s">
+<text x="26" y="196" fill="#7ee787" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Stack:</text>
+<text x="116" y="196" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">HTML, CSS, JavaScript, Java, C++, SQL, Supabase</text>
+</g>
+<g class="line" style="animation-delay:0.56s">
+<text x="26" y="214" fill="#7ee787" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Learning:</text>
+<text x="116" y="214" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">MERN (MongoDB, Express, React, Node.js), DSA in</text>
+</g>
+<g class="line" style="animation-delay:0.64s">
+<text x="116" y="232" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Java</text>
+</g>
+<g class="line" style="animation-delay:0.72s">
+<text x="26" y="250" fill="#7ee787" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Highlights:</text>
+<text x="116" y="250" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">200+ problems solved on CodeChef; built "Ration</text>
+</g>
+<g class="line" style="animation-delay:0.80s">
+<text x="116" y="268" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">Setu" for SIH and was selected to represent my</text>
+</g>
+<g class="line" style="animation-delay:0.88s">
+<text x="116" y="286" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">college; participant at TIT Srijan; organized 3</text>
+</g>
+<g class="line" style="animation-delay:0.96s">
+<text x="116" y="304" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">college events (debate competition, coding</text>
+</g>
+<g class="line" style="animation-delay:1.04s">
+<text x="116" y="322" fill="#c9d1d9" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace">competition, mock placement drive)</text>
+</g>
+</svg>
